@@ -34,6 +34,7 @@ Assigment_DMS_Phase4/
 │   └── employee-tracker-1.0.0.jar (executable JAR)</br>
 ├── sample.db (SQLite database with 20+ records)</br>
 └── README.md</br>
+
 🛠️ Requirements
 Java 17+
 
@@ -41,23 +42,15 @@ Maven 3.6+
 
 SQLite JDBC driver (bundled in the JAR)
 
-Tested on macOS and Windows
-
 📦 How to Build the Project
 In the project root folder, run:
 
-bash
-Copy
-Edit
 mvn clean package -DskipTests
 If mvn clean package fails due to tests, use -DskipTests as shown above.
 
 ▶️ How to Run the Application
 Make sure you are in the project directory and run the following command:
 
-bash
-Copy
-Edit
 java -jar target/employee-tracker-1.0.0.jar
 This will start a web server (by default on http://localhost:8080).
 
