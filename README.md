@@ -5,7 +5,7 @@ Employee Tracker is a Java-based Data Management System (DMS) built with Spring 
 
 This project was completed as the final deliverable for CEN 3024C – Data Management Systems 
 
-🚀 Features
+🚀 Features </br>
 ✅ Add, edit, delete, and view employees
 
 ✅ Tenure report feature: calculates years of service for each employee and groups them by tenure
@@ -72,9 +72,9 @@ Format: SQLite3
 
 Contains 20+ sample employees
 
-Auto-used by the app via application.properties configuration
+Auto-used by the app via application.properties configuration</br>
 
-🧪 Test Rubric Coverage
+🧪 Test Rubric Coverage</br>
 ✅ 1. Menu & GUI for CRUD operations</br>
 ✅ 2. Loads data from SQLite DB with error handling</br>
 ✅ 3. Displays all data via GUI</br>
@@ -108,7 +108,7 @@ Following a complete SDLC process in a real-world project scenario
 Every class and method is documented with purpose-driven comments, as per Canvas rubric.
 
 🔗 GitHub Repository
-(https://github.com/SheilaTran-UCF/Data-Management-System-)
+(https://github.com/SheilaTran-UCF/Data-Management-System-)</br>
 
 📦 Submission Checklist</br>
 ✅ Exported IntelliJ project</br>
