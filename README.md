@@ -1,5 +1,5 @@
+## 📊 Employee Tracker – CEN 3024C Final Project </br>
 
-##📊 Employee Tracker – CEN 3024C Final Project </br>
 ✅ Overview</br>
 Employee Tracker is a Java-based Data Management System (DMS) built with Spring Boot, Thymeleaf, and SQLite. It allows users to perform full CRUD operations (Create, Read, Update, Delete) and includes a custom tenure report feature that groups employees by years of service.</br></br>
 
