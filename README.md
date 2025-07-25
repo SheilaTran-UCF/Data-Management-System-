@@ -1,9 +1,9 @@
 
-📊 Employee Tracker – CEN 3024C Final Project
-✅ Overview
-Employee Tracker is a Java-based Data Management System (DMS) built with Spring Boot, Thymeleaf, and SQLite. It allows users to perform full CRUD operations (Create, Read, Update, Delete) and includes a custom tenure report feature that groups employees by years of service.
+##📊 Employee Tracker – CEN 3024C Final Project </br>
+✅ Overview</br>
+Employee Tracker is a Java-based Data Management System (DMS) built with Spring Boot, Thymeleaf, and SQLite. It allows users to perform full CRUD operations (Create, Read, Update, Delete) and includes a custom tenure report feature that groups employees by years of service.</br></br>
 
-This project was completed as the final deliverable for CEN 3024C – Data Management Systems at Valencia College.
+This project was completed as the final deliverable for CEN 3024C – Data Management Systems 
 
 🚀 Features
 ✅ Add, edit, delete, and view employees
@@ -128,10 +128,10 @@ Every class and method is documented with purpose-driven comments, as per Canvas
 To build the project and create the executable JAR:
 
 
-# 1. Clean and build without running tests
+## 1. Clean and build without running tests
 mvn clean package -DskipTests
 
-# 2. Run the JAR that was created
+## 2. Run the JAR that was created
 java -jar target/employee-tracker-1.0.0.jar
 
 
