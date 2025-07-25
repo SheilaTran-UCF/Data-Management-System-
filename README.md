@@ -82,16 +82,16 @@ Contains 20+ sample employees
 Auto-used by the app via application.properties configuration
 
 🧪 Test Rubric Coverage
-✅ 1. Menu & GUI for CRUD operations
-✅ 2. Loads data from SQLite DB with error handling
-✅ 3. Displays all data via GUI
-✅ 4. Create data (form input)
-✅ 5. Remove records with immediate reflection
-✅ 6. Update fields with validation
-✅ 7. Custom Feature (Tenure report with mathematical logic)
-✅ 8. Proper inline code comments and documentation
+✅ 1. Menu & GUI for CRUD operations</br>
+✅ 2. Loads data from SQLite DB with error handling</br>
+✅ 3. Displays all data via GUI</br>
+✅ 4. Create data (form input)</br>
+✅ 5. Remove records with immediate reflection</br>
+✅ 6. Update fields with validation</br>
+✅ 7. Custom Feature (Tenure report with mathematical logic)</br>
+✅ 8. Proper inline code comments and documentation</br>
 
-📖 Software Development Process (SDLC)
+📖 Software Development Process (SDLC)</br>
 Phase 1: Logic and Input Validation (Manual/CLI)
 
 Phase 2: Software Testing with edge cases and exception handling
@@ -117,21 +117,21 @@ Every class and method is documented with purpose-driven comments, as per Canvas
 🔗 GitHub Repository
 (https://github.com/SheilaTran-UCF/Data-Management-System-)
 
-📦 Submission Checklist
-✅ Exported IntelliJ project
-✅ Executable JAR file
-✅ Sample SQLite database with 20+ items
-✅ GitHub repository
-✅ Final video presentation
-## How to Build and Run
+📦 Submission Checklist</br>
+✅ Exported IntelliJ project</br>
+✅ Executable JAR file</br>
+✅ Sample SQLite database with 20+ items</br>
+✅ GitHub repository</br>
+✅ Final video presentation</br>
+### How to Build and Run
 
 To build the project and create the executable JAR:
 
 
-## 1. Clean and build without running tests
+### 1. Clean and build without running tests
 mvn clean package -DskipTests
 
-## 2. Run the JAR that was created
+### 2. Run the JAR that was created
 java -jar target/employee-tracker-1.0.0.jar
 
 
